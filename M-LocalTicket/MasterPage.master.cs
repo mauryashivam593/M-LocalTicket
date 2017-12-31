@@ -28,8 +28,7 @@ public partial class MasterPage : System.Web.UI.MasterPage
         cmd.Parameters.AddWithValue("@age", age.Value);
         cmd.Parameters.AddWithValue("@mobileno", mobileno.Value);
         cmd.Parameters.AddWithValue("@address", address.Value);
-        cmd.Parameters.AddWithValue("@email", email.Value);
-        cmd.Parameters.AddWithValue("@password", password1.Value);
+        cmd.Parameters.AddWithValue("@email", email.Value); 
         con.Open();
         int i = cmd.ExecuteNonQuery();
         con.Close();

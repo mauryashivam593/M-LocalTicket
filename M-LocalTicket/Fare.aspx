@@ -5,30 +5,26 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <style type="text/css">
+        #source {
+            height: 22px;
+            width: 164px;
+        }
+    </style>
 </head>
 <body style="height: 278px">
     <form id="form1" runat="server">
-        <div style="margin-left: 200px">
+        <div style="margin-left: 240px">
             <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="Larger" Text="Source"></asp:Label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
-            <asp:DropDownList ID="DropDownList1" runat="server" Height="66px" Width="171px">
-                <asp:ListItem>churchgate</asp:ListItem>
-                <asp:ListItem>marinelines</asp:ListItem>
-                <asp:ListItem>grantroad</asp:ListItem>
-                <asp:ListItem>charniroad</asp:ListItem>
-                <asp:ListItem></asp:ListItem>
-            </asp:DropDownList>
-            &nbsp;&nbsp;&nbsp;&nbsp;<br />
+          
+            &nbsp;&nbsp;&nbsp;&nbsp;<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+            <br />
             <br />
             <br />
             <br />
             <asp:Label ID="Label2" runat="server" Font-Bold="True" Font-Size="Larger" Text="Destination"></asp:Label>
 &nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:DropDownList ID="DropDownList2" runat="server" Height="66px" Width="168px">
-                <asp:ListItem>churchgate</asp:ListItem>
-                <asp:ListItem>marinelines</asp:ListItem>
-                <asp:ListItem>grantroad</asp:ListItem>
-                <asp:ListItem>mumbaicentral</asp:ListItem>
-            </asp:DropDownList>
+            <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
             <br />
             <br />
             <br />
@@ -37,6 +33,7 @@
             <br />
             <br />
             <br />
+            <asp:Label ID="Label3" runat="server" Height="100px" Width="415px"></asp:Label>
             <br />
             </div>
     </form>

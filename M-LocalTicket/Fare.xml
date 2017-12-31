@@ -1,0 +1,888 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<fare>
+    <churchgate name="churchgate">
+    <churchgate name="churchgate" secondpass="0" firstpass="0" secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </kharroad>
+    <santacruz name="santacruz" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="315" firstpass="1090"  secondticket="15" firstticket="165" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+ </churchgate>
+  <marinelines name="marinelines">
+    <churchgate name="churchgate" secondpass="100" firstpass="340" secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></churchgate>
+    <marinelines name="marinelines" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0" ></marinelines>
+    <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </kharroad>
+    <santacruz name="santacruz" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="1800"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="315" firstpass="1090"  secondticket="15" firstticket="165" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+</marinelines>
+  
+<charniroad name="charniroad">
+    <churchgate name="churchgate" secondpass="100" firstpass="340" secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></churchgate>
+    <marinelines name="marinelines" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </kharroad>
+    <santacruz name="santacruz" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </goregaon>
+    <malad name="malad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="315" firstpass="1090"  secondticket="15" firstticket="165" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+</charniroad>
+
+<grantroad name="grantroad">
+  <churchgate name="churchgate" secondpass="100" firstpass="340" secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></churchgate>
+  <marinelines name="marinelines" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+  <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+  <grantroad name="grantroad" secondpass="0" firstpass="0"  secondticket="0" firstticket="0"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+  <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+  <mahalaxmi name="mahalaxmi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+  <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+  <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+  <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+  <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+  <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+  <bandra name="bandra" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+  <kharroad name="kharroad" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </kharroad>
+  <santacruz name="santacruz" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+  <vileparle name="vileparle"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+  <andheri name="andheri" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+  <jogeshwari name="jogeshwari" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+  <goregaon name="goregoan" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+  <malad name="malad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+  <kandivali name="kandivali" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+  <borivali name="borivali" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+  <dahisar name="dahisar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </dahisar>
+  <miraroad name="miraroad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+  <bhayandar name="bhayandar" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </bhayandar>
+  <naigoan name="naigoan" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </naigoan>
+  <vasairoad name="vasairoad" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </vasairoad>
+  <nalasopara name="nalasopara" secondpass="315" firstpass="1090"  secondticket="20" firstticket="165" secondquaterlypass="865" firstquaterlypass="2970"> </nalasopara>
+  <virar name="virar" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+
+</grantroad>
+  <mumbaicentral name="mumbaicentral">
+
+    <churchgate name="churchgate" secondpass="100" firstpass="340" secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></churchgate>
+    <marinelines name="marinelines" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="0" firstpass="0"  secondticket="0" firstticket="0"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"   secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </kharroad>
+    <santacruz name="santacruz" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </goregaon>
+    <malad name="malad" secondpass="215" firstpass="650"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1770"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="590" firstquaterlypass="1800"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </bhayandar>
+    <naigoan name="naigoan" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="315" firstpass="1090"  secondticket="20" firstticket="165" secondquaterlypass="865" firstquaterlypass="2970"> </nalasopara>
+    <virar name="virar" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+</mumbaicentral>
+
+<mahalaxmi name="mahalaxmi">
+    <churchgate name="churchgate" secondpass="100" firstpass="340" secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></churchgate>
+    <marinelines name="marinelines" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </kharroad>
+    <santacruz name="santacruz" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </santacruz>
+    <vileparle name="vileparle"  secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </vileparle>
+    <andheri name="andheri" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </goregaon>
+    <malad name="malad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </bhayandar>
+    <naigoan name="naigoan" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="300" firstpass="975"  secondticket="20" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </nalasopara>
+    <virar name="virar" secondpass="315" firstpass="1170"  secondticket="20" firstticket="165" secondquaterlypass="865" firstquaterlypass="2970"> </virar>
+</mahalaxmi>
+
+<lowerparel  name="lowerparel">
+    <churchgate name="churchgate" secondpass="100" firstpass="340" secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></churchgate>
+    <marinelines name="marinelines" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="0" firstpass="0"  secondticket="0" firstticket="0"  secondquaterlypass="0" firstquaterlypass="0"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </santacruz>
+    <vileparle name="vileparle"  secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </vileparle>
+    <andheri name="andheri" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </goregaon>
+    <malad name="malad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </bhayandar>
+    <naigoan name="naigoan" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </nalasopara>
+    <virar name="virar" secondpass="315" firstpass="1090"  secondticket="15" firstticket="165" secondquaterlypass="865" firstquaterlypass="2970"> </virar>
+</lowerparel>
+
+
+<prabhadevi name="prabhadevi">
+    <churchgate name="churchgate" secondpass="100" firstpass="340" secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></churchgate>
+    <marinelines name="marinelines" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="0" firstpass="0"  secondticket="0" firstticket="0"  secondquaterlypass="0" firstquaterlypass="0"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="360" firstquaterlypass="915"> </santacruz>
+    <vileparle name="vileparle"  secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </vileparle>
+    <andheri name="andheri" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </goregaon>
+    <malad name="malad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </nalasopara>
+    <virar name="virar" secondpass="315" firstpass="1090"  secondticket="15" firstticket="165" secondquaterlypass="865" firstquaterlypass="2970"> </virar>
+</prabhadevi>
+
+  <dadar name="dadar">
+    <churchgate name="churchgate" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325" ></churchgate>
+    <marinelines name="marinelines" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </vileparle>
+    <andheri name="andheri" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1535"> </goregaon>
+    <malad name="malad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1535"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="590" firstquaterlypass="1800"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </nalasopara>
+    <virar name="virar" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </virar>
+  </dadar>
+<matungaroad name="matungaroad">
+    <churchgate name="churchgate" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325" ></churchgate>
+    <marinelines name="marinelines" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325" ></marinelines>
+    <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </vileparle>
+    <andheri name="andheri" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </goregaon>
+    <malad name="malad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </malad>
+    <kandivali name="kandivali" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="590" firstquaterlypass="1800"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="300" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </nalasopara>
+    <virar name="virar" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </virar>
+</matungaroad> 
+
+  <mahim name="mahim">
+    <churchgate name="churchgate" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"></churchgate>
+    <marinelines name="marinelines" secondpass="130" firstpass="485"  secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325" ></marinelines>
+    <charniroad name="charniroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="360" firstquaterlypass="1325" > </charniroad>
+    <grantroad name="grantroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </vileparle>
+    <andheri name="andheri" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="270" firstquaterlypass="915"> </andheri>
+    <jogeshwari name="jogeshwari" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </goregaon>
+    <malad name="malad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </malad>
+    <kandivali name="kandivali" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="590" firstquaterlypass="1800"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2025"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="300" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </nalasopara>
+    <virar name="virar" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </virar>
+</mahim>
+
+<bandra name="bandra">
+
+    <churchgate name="churchgate" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325" ></churchgate>
+    <marinelines name="marinelines" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325" ></marinelines>
+    <charniroad name="charniroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" ssecondquaterlypass="360" firstquaterlypass="1325" > </charniroad>
+    <grantroad name="grantroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </vileparle>
+    <andheri name="andheri"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </goregaon>
+    <malad name="malad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </malad>
+    <kandivali name="kandivali" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </kandivali>
+    <borivali name="borivali" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="590" firstquaterlypass="1800"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="300" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </nalasopara>
+    <virar name="virar" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="820" firstquaterlypass="2655"> </virar>
+</bandra>
+  <kharroad name="kharroad">
+
+    <churchgate name="churchgate" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535" ></churchgate>
+    <marinelines name="marinelines" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325" ></marinelines>
+    <charniroad name="charniroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325" > </charniroad>
+    <grantroad name="grantroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915" > </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </vileparle>
+    <andheri name="andheri"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </goregaon>
+    <malad name="malad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </malad>
+    <kandivali name="kandivali" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </kandivali>
+    <borivali name="borivali" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="590" firstquaterlypass="1770"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </virar>
+  </kharroad>
+
+  <santacruz name="santacruz">
+
+    <churchgate name="churchgate" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535" ></churchgate>
+    <marinelines name="marinelines" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535" ></marinelines>
+    <charniroad name="charniroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535" > </charniroad>
+    <grantroad name="grantroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"   secondquaterlypass="270" firstquaterlypass="915"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </kharroad>
+    <santacruz name="santacruz" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </vileparle>
+    <andheri name="andheri"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"   secondquaterlypass="270" firstquaterlypass="915"> </goregaon>
+    <malad name="malad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </malad>
+    <kandivali name="kandivali" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </kandivali>
+    <borivali name="borivali" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </borivali>
+    <dahisar name="dahisar" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="590" firstquaterlypass="1770"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </virar>
+  </santacruz>
+<vileparle name="vileparle">
+
+    <churchgate name="churchgate" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535" ></churchgate>
+    <marinelines name="marinelines" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535" ></marinelines>
+    <charniroad name="charniroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535" > </charniroad>
+    <grantroad name="grantroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="360" firstquaterlypass="1535"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="360" firstquaterlypass="1535"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </dadar>
+    <matungaroad name="matungaroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </santacruz>
+    <vileparle name="vileparle"  secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </vileparle>
+    <andheri name="andheri"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"   secondquaterlypass="270" firstquaterlypass="915"> </goregaon>
+    <malad name="malad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </malad>
+    <kandivali name="kandivali" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </kandivali>
+    <borivali name="borivali" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </borivali>
+    <dahisar name="dahisar" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="590" firstquaterlypass="1770"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2445"> </virar>
+  </vileparle>
+<andheri name="andheri">
+
+    <churchgate name="churchgate" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"></churchgate>
+    <marinelines name="marinelines" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770" ></marinelines>
+    <charniroad name="charniroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535" > </charniroad>
+    <grantroad name="grantroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="360" firstquaterlypass="1535"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="360" firstquaterlypass="1535"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </vileparle>
+    <andheri name="andheri"  secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="270" firstquaterlypass="915"> </goregaon>
+    <malad name="malad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </malad>
+    <kandivali name="kandivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="270" firstquaterlypass="915"> </kandivali>
+    <borivali name="borivali" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </borivali>
+    <dahisar name="dahisar" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </dahisar>
+    <miraroad name="miraroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="360" firstquaterlypass="1535"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="2025"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="2220"> </virar>
+</andheri>
+  
+<jogeshwari name="jogeshwari">
+
+    <churchgate name="churchgate" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="0" firstquaterlypass="0 "> </jogeshwari>
+    <goregaon name="goregoan" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+</jogeshwari>
+
+ 
+<goregaon name="goregaon">
+
+    <churchgate name="churchgate" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="0" firstpass="0"  secondticket="0" firstticket="0"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="130" firstpass="485"  secondticket="10" firstticket="70"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+</goregaon>
+
+  <malad name="malad">
+
+    <churchgate name="churchgate" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="130" firstpass="485"  secondticket="10" firstticket="70"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+</malad>
+
+  <kandivali name="kandivali">
+
+    <churchgate name="churchgate" secondpass="215" firstpass="745"  secondticket="15" firstticket="140"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+  </kandivali>
+
+  <borivali name="borivali">
+
+    <churchgate name="churchgate" secondpass="215" firstpass="745"  secondticket="15" firstticket="140"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+  </borivali>
+
+
+  <dahisar name="dahisar">
+
+    <churchgate name="churchgate" secondpass="215" firstpass="815"  secondticket="15" firstticket="145"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="215" firstpass="745"  secondticket="15" firstticket="140"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"   secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+  </dahisar>
+
+  <miraroad name="miraroad">
+
+    <churchgate name="churchgate" secondpass="215" firstpass="815"  secondticket="15" firstticket="145"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel"  secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="215" firstpass="745"  secondticket="15" firstticket="140"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"   secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan"  secondpass="130" firstpass="485" secondticket="10" firstticket="70"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="0" firstpass="0"  secondticket="0" firstticket="0"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+  </miraroad>
+
+<bhayandar name="bhayandar">
+
+    <churchgate name="churchgate" secondpass="215" firstpass="900"  secondticket="15" firstticket="145"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="215" firstpass="900"  secondticket="15" firstticket="145"  secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad"  secondpass="215" firstpass="900"  secondticket="15" firstticket="145"  secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="215" firstpass="745"  secondticket="15" firstticket="140"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"   secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan"  secondpass="130" firstpass="560"  secondticket="10" firstticket="105"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad"  secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="130" firstpass="560"  secondticket="10" firstticket="105" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+  </bhayandar>
+  
+<naigoan name="naigoan">
+
+    <churchgate name="churchgate" secondpass="300" firstpass="975"  secondticket="15" firstticket="160"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="300" firstpass="975"  secondticket="15" firstticket="160"  secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad"  secondpass="300" firstpass="975"  secondticket="15" firstticket="160"  secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad"  secondpass="215" firstpass="900"  secondticket="15" firstticket="145"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral"  secondpass="215" firstpass="900"  secondticket="15" firstticket="145"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel"  secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi" secondpass="215" firstpass="815"  secondticket="15" firstticket="145"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"   secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"  secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan"  secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad"  secondpass="130" firstpass="560" secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="130" firstpass="560" secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="130" firstpass="485" secondticket="10" firstticket="70" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="100" firstpass="340"  secondticket="5" firstticket="50"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="130" firstpass="485"  secondticket="10" firstticket="70" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+  </naigoan>
+  
+
+<vasairoad name="vasairoad">
+
+    <churchgate name="churchgate" secondpass="315" firstpass="1090"  secondticket="15" firstticket="165"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="315" firstpass="1090"  secondticket="15" firstticket="165"  secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad"  secondpass="300" firstpass="975"  secondticket="15" firstticket="160"  secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad"  secondpass="300" firstpass="975"  secondticket="15" firstticket="160"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral"  secondpass="300" firstpass="975"  secondticket="15" firstticket="160"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel"  secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi"  secondpass="215" firstpass="900"  secondticket="15" firstticket="145"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar"  secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"   secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"   secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan"  secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad"  secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="130" firstpass="560" secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="130" firstpass="560" secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="100" firstpass="485"  secondticket="5" firstticket="70"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad"  secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="100" firstpass="340"  secondticket="10" firstticket="50" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+  </vasairoad>
+
+<nalasopara name="nalasopara">
+
+    <churchgate name="churchgate" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="315" firstpass="1090"  secondticket="15" firstticket="165"  secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad"  secondpass="315" firstpass="1090"  secondticket="15" firstticket="165"  secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad"  secondpass="315" firstpass="1090"  secondticket="15" firstticket="165"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral"  secondpass="315" firstpass="1090"  secondticket="15" firstticket="165"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel"  secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi"  secondpass="300" firstpass="975"  secondticket="15" firstticket="160"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar"  secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"   secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"   secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan"  secondpass="215" firstpass="660"  secondticket="10" firstticket="135"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad"  secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="130" firstpass="560" secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="100" firstpass="485"  secondticket="5" firstticket="70"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="100" firstpass="340"  secondticket="10" firstticket="50" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+  </nalasopara>
+  
+    
+<virar name="virar">
+
+    <churchgate name="churchgate" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170"  secondquaterlypass="0" firstquaterlypass="0" ></churchgate>
+    <marinelines name="marinelines" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170"  secondquaterlypass="270" firstquaterlypass="915" ></marinelines>
+    <charniroad name="charniroad"  secondpass="315" firstpass="1170"  secondticket="20" firstticket="170"  secondquaterlypass="270" firstquaterlypass="915" > </charniroad>
+    <grantroad name="grantroad"  secondpass="315" firstpass="1170"  secondticket="20" firstticket="170"  secondquaterlypass="0" firstquaterlypass="0"> </grantroad>
+    <mumbaicentral name="mumbaicentral" secondpass="315" firstpass="1170"  secondticket="20" firstticket="170"  secondquaterlypass="0" firstquaterlypass="0"> </mumbaicentral>
+    <mahalaxmi name="mahalaxmi" secondpass="315" firstpass="1090"  secondticket="15" firstticket="165" secondquaterlypass="0" firstquaterlypass="0"> </mahalaxmi>
+    <lowerparel name="lowerparel"  secondpass="315" firstpass="1090"  secondticket="15" firstticket="165" secondquaterlypass="270" firstquaterlypass="915"> </lowerparel>
+    <prabhadevi name="prabhadevi"  secondpass="315" firstpass="1090"  secondticket="15" firstticket="165"  secondquaterlypass="360" firstquaterlypass="1325"> </prabhadevi>
+    <dadar name="dadar"  secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="360" firstquaterlypass="1325"> </dadar>
+    <matungaroad name="matungaroad" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="360" firstquaterlypass="1325"> </matungaroad>
+    <mahim  name="mahim" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="360" firstquaterlypass="1325"> </mahim>
+    <bandra name="bandra" secondpass="300" firstpass="975"  secondticket="15" firstticket="160" secondquaterlypass="360" firstquaterlypass="1325"> </bandra>
+    <kharroad name="kharroad" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="0" firstquaterlypass="0"> </kharroad>
+    <santacruz name="santacruz" secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1535"> </santacruz>
+    <vileparle name="vileparle"   secondpass="215" firstpass="900"  secondticket="15" firstticket="145" secondquaterlypass="360" firstquaterlypass="1535"> </vileparle>
+    <andheri name="andheri"  secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="1770"> </andheri>
+    <jogeshwari name="jogeshwari"   secondpass="215" firstpass="815"  secondticket="15" firstticket="145" secondquaterlypass="590" firstquaterlypass="1770"> </jogeshwari>
+    <goregaon name="goregoan"   secondpass="215" firstpass="745"  secondticket="15" firstticket="140"  secondquaterlypass="590" firstquaterlypass="1800"> </goregaon>
+    <malad name="malad"   secondpass="215" firstpass="745"  secondticket="15" firstticket="140" secondquaterlypass="590" firstquaterlypass="1800"> </malad>
+    <kandivali name="kandivali" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="2025"> </kandivali>
+    <borivali name="borivali" secondpass="215" firstpass="660"  secondticket="10" firstticket="135" secondquaterlypass="590" firstquaterlypass="2025"> </borivali>
+    <dahisar name="dahisar" secondpass="215" firstpass="650"  secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2220"> </dahisar>
+    <miraroad name="miraroad" secondpass="215" firstpass="650"  secondticket="10" firstticket="105"  secondquaterlypass="590" firstquaterlypass="2220"> </miraroad>
+    <bhayandar name="bhayandar" secondpass="130" firstpass="560" secondticket="10" firstticket="105" secondquaterlypass="590" firstquaterlypass="2445"> </bhayandar>
+    <naigoan name="naigoan"  secondpass="100" firstpass="485"  secondticket="5" firstticket="70" secondquaterlypass="820" firstquaterlypass="2655"> </naigoan>
+    <vasairoad name="vasairoad"  secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="865" firstquaterlypass="2970"> </vasairoad>
+    <nalasopara name="nalasopara" secondpass="100" firstpass="340"  secondticket="5" firstticket="50" secondquaterlypass="865" firstquaterlypass="3180"> </nalasopara>
+    <virar name="virar" secondpass="0" firstpass="0"  secondticket="0" firstticket="0" secondquaterlypass="865" firstquaterlypass="3180"> </virar>
+  </virar>
+</fare>

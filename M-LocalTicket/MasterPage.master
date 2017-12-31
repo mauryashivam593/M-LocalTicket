@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+﻿   <%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
 
 <!DOCTYPE html>
 
@@ -40,7 +40,7 @@
         <nav>
     <div class="nav-wrapper">
       <a href="#" class="brand-logo">M-LocalTicket</a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
+      <ul id="nav-mobile" class="right">
         <li><a href="AboutUs.aspx">About Us</a></li>
         <li><a href="ContactUs.aspx">Contact Us</a></li>
          <li> <button data-target="modal2" onclick=" var elem1 = document.getElementById('modal2');
@@ -57,7 +57,7 @@
            </div>
                  <div class="col s12 l2">
                 <ul>
-                 <li> <a href="#"> BOOK TICKET</a></li>
+                 <li> <a href="BookTicket.aspx"> BOOK TICKET</a></li>
                     </ul>
            </div>
                  <div class="col s12 l2">
@@ -117,7 +117,6 @@
     
     </div>
   </div>
-
 
         
         <!-- Modal Structure for sign up  -->
