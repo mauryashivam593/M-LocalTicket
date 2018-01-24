@@ -21,22 +21,11 @@
         window.onload = function () {
             var elem = document.querySelector(".materialboxed");
             var instance = new M.Materialbox(elem);
-
-        }
-
-    </script>
-    <script type="text/javascript">
-        window.onload = function () {
-            var slider = document.querySelector('.slider');
-            var HomeSlide = new M.Slider(slider);
-            HomeSlide.start();
             new M.Tabs(document.querySelector('.tabs'));
-        };
-        function mySidenav() {
-            var sidenav = new M.Sidenav(document.querySelector('.sidenav'));
-            sidenav.open();
         }
+
     </script>
+    
 
 
 </head>
