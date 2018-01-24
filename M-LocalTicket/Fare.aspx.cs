@@ -10,14 +10,14 @@ public partial class Fare : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-
+     
     }
 
     protected void Button1_Click(object sender, EventArgs e)
 
     {
-
-        if (TextBox1.Text != null)
+    
+        if (DropDownList1.SelectedValue != null)
         {
             XmlDocument doc = new XmlDocument();
             string path = Server.MapPath("") + "\\Fare.xml";
@@ -26,15 +26,21 @@ public partial class Fare : System.Web.UI.Page
             foreach (XmlNode node in doc.DocumentElement)
             {
                 string name = node.Attributes[0].InnerText;
-                if (name == TextBox1.Text)
+                if (name ==DropDownList1.SelectedValue)
                 {
 
                     foreach (XmlNode child in node.ChildNodes)
                     {
                         string name1 = child.Attributes[0].InnerText;
-                        if (name1 == TextBox2.Text)
+                        if (name1 ==DropDownList2.SelectedValue)
                         {
-                            Label3.Text = "Regular Ticket For Second Class        " + child.Attributes[3].InnerText +"<br>" +"Regular Ticket For First Class        " +child.Attributes[4].InnerText +"<br>" +"1 Month Pass For Second Class        " + child.Attributes[1].InnerText +"<br>" + "1 Month Pass For First Class" + child.Attributes[2].InnerText ;
+                           
+                            Label4.Text = "" + child.Attributes[3].InnerText;
+                            firstticket.Text = "" + child.Attributes[4].InnerText;
+                            secondpass.Text = "" + child.Attributes[1].InnerText;
+                            firstpass.Text = "" + child.Attributes[2].InnerText;
+                            sqp.Text = "" + child.Attributes[5].InnerText;
+                            fqp.Text = "" + child.Attributes[6].InnerText;
                         }
                     }
                 }

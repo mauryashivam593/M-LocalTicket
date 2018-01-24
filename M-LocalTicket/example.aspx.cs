@@ -6,7 +6,8 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Xml;
 
-public partial class BookTicket : System.Web.UI.Page
+
+public partial class example : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
@@ -42,17 +43,17 @@ public partial class BookTicket : System.Web.UI.Page
                             Amount.Text = s1.ToString();
 
                         }
-                        else if (cls == "FirstClass(I)" && Return.Checked)
+                        else if(cls== "FirstClass(I)" && Return.Checked)
                         {
                             int s1 = 2 * Convert.ToInt32(person) * Convert.ToInt32(firstticket);
                             Amount.Text = s1.ToString();
                         }
                         else if (cls == "SecondClass(II)" && Single.Checked)
                         {
-                            int s1 = Convert.ToInt32(person) * Convert.ToInt32(secondticket);
+                            int s1 =  Convert.ToInt32(person) * Convert.ToInt32(secondticket);
                             Amount.Text = s1.ToString();
                         }
-                        else
+                        else  
                         {
                             int s1 = 2 * Convert.ToInt32(person) * Convert.ToInt32(secondticket);
                             Amount.Text = s1.ToString();
@@ -62,7 +63,7 @@ public partial class BookTicket : System.Web.UI.Page
             }
         }
     }
-    static int i = 1;
+ static int i = 1;
     protected void Increment_Click(object sender, EventArgs e)
     {
         if (i < 10)
@@ -77,7 +78,7 @@ public partial class BookTicket : System.Web.UI.Page
     }
     protected void Decrement_Click(object sender, EventArgs e)
     {
-
+       
         if (i > 1)
         {
             --i;
@@ -87,12 +88,7 @@ public partial class BookTicket : System.Web.UI.Page
             i = 10;
         }
 
-
-        display.InnerText = Convert.ToString(i);
+        
+        display.InnerText = Convert.ToString(i) ;
     }
-    protected void Cancle_Click(object sender,EventArgs e)
-    {
-        Response.Redirect("Default.aspx");
-    }
-
-} 
+}
