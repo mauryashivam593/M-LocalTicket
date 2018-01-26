@@ -120,6 +120,12 @@
     <label id="display" style="text-align:center; font:bold;font-size:large; width:120px;display: inline-block;" runat="server" >1</label>
 
 <input type="button" class="btn" value="+" id="inc" onserverclick="Increment_Click" runat="server"/>
+            <script type="text/javascript">
+                window.onload = function () {
+                    new M.Tabs(document.querySelector('.tabs'));
+                }
+
+            </script>
     <script type="text/javascript">
 
         var i = 1;

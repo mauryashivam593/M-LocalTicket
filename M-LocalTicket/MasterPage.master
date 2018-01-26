@@ -21,7 +21,7 @@
         window.onload = function () {
             var elem = document.querySelector(".materialboxed");
             var instance = new M.Materialbox(elem);
-            new M.Tabs(document.querySelector('.tabs'));
+            
         }
 
     </script>
