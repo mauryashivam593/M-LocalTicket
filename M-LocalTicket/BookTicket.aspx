@@ -120,6 +120,11 @@
     <label id="display" style="text-align:center; font:bold;font-size:large; width:120px;display: inline-block;" runat="server" >1</label>
 
 <input type="button" class="btn" value="+" id="inc" onserverclick="Increment_Click" runat="server"/>
+            <script type="text/javascript">
+                window.onload = function () {
+                    new M.Tabs(document.querySelector('.tabs'));
+                }
+            </script>
     <script type="text/javascript">
 
         var i = 1;
@@ -173,14 +178,134 @@
 </div>
     <div id="modal3" class="modal">
             <div class="modal-content">
-                
+               
+           <!-- Tab links -->
+                <!--
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'DebitCard')" id="defaultOpen">Debit Card</button>
+  <button class="tablinks" onclick="openCity(event, 'CreditCard')">Credit Card</button>
+  
+</div>
+
+<div id="DebitCard" class="tabcontent">
+      <div class="row">
+                        <form class="col s12">
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="first_name" type="text" class="validate" required="required" runat="server">
+                                    <label for="first_name">Enter Name</label>
+                                </div>
+                               
+                            </div>
+                            <div class="row">
+                                <div class="col s12">
+                                    <div class="input-field ">
+                                        <input id="email" type="email" class="validate" required="required" runat="server">
+                                        <label for="email">Enter Debit Card Number</label>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+  
+</div> 
+
+             <div id="CreditCard" class="tabcontent">
+                      <div class="row">
+                        <form class="col s12">
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="name2" type="text" required="required" class="validate">
+                                    <label for="first_name">Enter Name</label>
+                                </div>
+                               
+                            </div>
+                            <div class="row">
+                                <div class="col s12">
+                                    <div class="input-field ">
+                                        <input id="email1" type="email" required="required" class="validate">
+                                        <label for="email">Enter Credit Card Number</label>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                         </form>
+                    </div>
+
+</div>
 
 
                 
+                <style>
+                    /* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+                </style>
+                <script>
+                    function openCity(evt, cityName) {
+                        // Declare all variables
+                        var i, tabcontent, tablinks;
+
+                        // Get all elements with class="tabcontent" and hide them
+                        tabcontent = document.getElementsByClassName("tabcontent");
+                        for (i = 0; i < tabcontent.length; i++) {
+                            tabcontent[i].style.display = "none";
+                        }
+
+                        // Get all elements with class="tablinks" and remove the class "active"
+                        tablinks = document.getElementsByClassName("tablinks");
+                        for (i = 0; i < tablinks.length; i++) {
+                            tablinks[i].className = tablinks[i].className.replace(" active", "");
+                        }
+
+                        // Show the current tab, and add an "active" class to the button that opened the tab
+                        document.getElementById(cityName).style.display = "block";
+                        evt.currentTarget.className += " active";
+                    }
+                    // Get the element with id="defaultOpen" and click on it
+                    document.getElementById("defaultOpen").click();
+                </script>
+               -->
+
+               
                 <ul id="tabs-swipe-demo" class="tabs">
                     <li class="tab col s3"><a href="#debit">Debit Card</a></li>
                     <li class="tab col s3"><a href="#credit">Credit card</a></li>
                 </ul>
+                  
                 <div id="debit" class="col s12" >
                      <div class="row">
                         <form class="col s12">
@@ -194,18 +319,53 @@
                             <div class="row">
                                 <div class="col s12">
                                     <div class="input-field ">
-                                        <input id="email" type="email" class="validate">
-                                        <label for="email">Enter Debit Card Number</label>
+                                        <input id="debitcard" type="text" class="validate">
+                                        <label for="debitcard">Enter Debit Card Number</label>
                                         
+                                   </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="col s6">
+                                    <div class="input-field">
+                                        <input id="month" type="number" class="validate" />
+                                        <label for="month"> Month</label>
+                                    </div>
+                                </div>
+                                  <div class="col s6">
+                                    <div class="input-field">
+                                        <input id="year" type="text" class="validate" />
+                                        <label for="year"> Year</label>
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="input-field col s12">
-                                    <input id="mobileno" type="text" class="validate">
-                                    <label for="mobileno">Mobile number</label>
+                           <div class="row">
+                                <div class="col s6">
+                                    <div class="input-field ">
+                                        <input id="cvv" type="text" class="validate">
+                                        <label for="cvv">Enter CVV Number</label>
+                                        
+                                   </div>
                                 </div>
+                               <div class="col s6">
+                                    <ul class="collapsible popout">
+                                         <script>
+                                             var elem = document.querySelector('.collapsible');
+                                             var instance = new M.Collapsible(elem);
+                                             var instance = M.Collapsible.getInstance(elem);
+                                             instance.open(3);
+                             </script>
+        <li>
+            <div class="collapsible-header"><i class="material-icons">fiber_manual_record</i>WHAT IS CVV ?</div>
+            <div class="collapsible-body"><img src="Images/CVV.png" alt="CVV" />
+                <br /><span>The CVV Number ("Card Verification Value") on your credit card or debit card is a 3 digit number on VISA®, MasterCard® and Discover® branded credit and debit cards. On your American Express® branded credit or debit card it is a 4 digit numeric code.</span></div>
+        </li>
+                                        </ul>
+                               </div>
                             </div>
+
+                          
+                           
                            
                             
                         </form>
@@ -224,26 +384,50 @@
                             <div class="row">
                                 <div class="col s12">
                                     <div class="input-field ">
-                                        <input id="email1" type="email" class="validate">
-                                        <label for="email">Enter Credit Card Number</label>
+                                        <input id="creditcard" type="text" class="validate">
+                                        <label for="creditcard">Enter Credit Card Number</label>
                                         
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="input-field col s12">
-                                    <input id="mobileno1" type="text" class="validate">
-                                    <label for="mobileno">Mobile number</label>
+                             <div>
+                                <div class="col s6">
+                                    <div class="input-field">
+                                        <input id="month1" type="number" class="validate" />
+                                        <label for="month1"> Month</label>
+                                    </div>
+                                </div>
+                                  <div class="col s6">
+                                    <div class="input-field">
+                                        <input id="year1" type="text" class="validate" />
+                                        <label for="year1"> Year</label>
+                                    </div>
                                 </div>
                             </div>
+                           <div class="row">
+                                <div class="col s12">
+                                    <div class="input-field ">
+                                        <input id="cvv1" type="text" class="validate">
+                                        <label for="cvv1">Enter CVV Number</label>
+                                        
+                                   </div>
+                                </div>
+                              
+                            </div>
+                        
                            
                             
                         </form>
                     </div>
+                </div >
+               
                 </div>
-                
-                </div>
-        </div>
+       
+                <div class=" modal-fixed-footer">
+                <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">BOOK</a>
+                <a href="BookTicket.aspx" class="modal-action modal-close waves-effect waves-green btn-flat">CANCEL</a>
+            </div>
+         </div>
                <!-- <div id="debit">
                      <div class="row">
                         <form class="col s12">

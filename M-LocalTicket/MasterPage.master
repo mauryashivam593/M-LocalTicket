@@ -21,18 +21,23 @@
         window.onload = function () {
             var elem = document.querySelector(".materialboxed");
             var instance = new M.Materialbox(elem);
-           
-            new M.Tabs(document.querySelector('.tabs'));
+            instance.open();
+
+        }
+
+    </script>
+    <script type="text/javascript">
+        window.onload = function () {
+            var slider = document.querySelector('.slider');
+            var HomeSlide = new M.Slider(slider);
+            HomeSlide.start();
+       
         };
         function mySidenav() {
             var sidenav = new M.Sidenav(document.querySelector('.sidenav'));
             sidenav.open();
         }
-
-        
-
     </script>
-   
 
 
 </head>
@@ -43,11 +48,13 @@
                 <a href="#" class="brand-logo">M-LocalTicket</a>
                 <a onclick="mySidenav();" href="#" data-target="slide-out" class="sidenav-trigger "><i class="material-icons">menu</i></a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><a href="AboutUs.aspx">About Us</a></li>
+                    <li><asp:Label ID="Label1" runat="server" Text=""></asp:Label></li>
+                    
+                    <li><a id="aboutus" runat="server" href="AboutUs.aspx">About Us</a></li>
                     <li><a href="ContactUs.aspx">Contact Us</a></li>
-
+                    <li><a href="#" runat="server" id="Logout" visible="false" onserverclick="Logout_Click">Log Out</a> </li>
                     <li>
-                        <button data-target="modal2" onclick=" var elem1 = document.getElementById('modal2');
+                        <button runat="server" id="SignUp" data-target="modal2" onclick=" var elem1 = document.getElementById('modal2');
   var instance1 = new M.Modal(elem1);instance1.open();"
                             class="btn modal-trigger">
                             SignUp
@@ -55,7 +62,7 @@
                     </li>
 
                     <li>
-                        <button  onclick=" var elem = document.getElementById('modal1');
+                        <button runat="server"  id="Login" onclick=" var elem = document.getElementById('modal1');
   var instance = new M.Modal(elem);instance.open();"
                             data-target="modal1" class="btn modal-trigger">
                             Log In
@@ -63,12 +70,13 @@
                     </li>
                 </ul>
                 <ul id="slide-out" class="sidenav">
-                    <li><a href="AboutUs.aspx">About Us</a></li>
+                    <li><a id="aboutus1" href="AboutUs.aspx" runat="server">About Us</a></li>
                     <li><a href="ContactUs.aspx">Contact Us</a></li>
-                    <li><a href="#" onclick=" var elem1 = document.getElementById('modal2');
+                    <li><a href="#" runat="server" id="Logout1" visible="false">Log Out</a></li>
+                    <li><a href="#" id="SignUp1" runat="server" onclick=" var elem1 = document.getElementById('modal2');
   var instance1 = new M.Modal(elem1);instance1.open();"
                         class="btn modal-trigger">Sign Up</a></li>
-                    <li><a href="#" onclick=" var elem = document.getElementById('modal1');
+                    <li><a href="#" id="Login1" runat="server" onclick=" var elem = document.getElementById('modal1');
   var instance = new M.Modal(elem);instance.open();"
                         data-target="modal1" class="btn modal-trigger">Log In</a></li>
                 </ul>
@@ -79,12 +87,12 @@
                         <li><a href="Default.aspx">HOME</a></li>
                     </ul>
                 </div>
-                <div class="col s12 l2">
+                <div class="col s12 l2" id="BOOKTICKET" visible="false" runat="server">
                     <ul>
                         <li><a href="BookTicket.aspx">BOOK TICKET</a></li>
                     </ul>
                 </div>
-                <div class="col s12 l2">
+                <div class="col s12 l2" id="BOOKINGHISTORY" visible="false" runat="server">
                     <ul>
                         <li><a href="#">BOOKING HISTORY</a></li>
                     </ul>
@@ -109,7 +117,7 @@
 
 
         <!-- Modal Structure -->
-        <div id="modal1" class="modal  modal-fixed-footer">
+        <div id="modal1" class="modal  modal-fixed-footer" runat="server">
             <div class="modal-content">
 
 
@@ -117,14 +125,20 @@
                     <div class="col s12">
                         <div class="row">
                             <div class="input-field col s12">
-                                <input id="email" type="email" class="validate" runat="server" />
+                                <input id="email" type="email" class="validate"  runat="server" />
                                 <label  for="email">Email</label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s12">
-                                <input id="password" type="password" class="validate" required="required" />
+                                <input id="password" type="password" class="validate" required="required" runat="server"/>
                                 <label for="password">Password</label>
+                            </div>
+                        </div>
+                         <div class="row">
+                            <div class="input-field col s12">
+                                
+                             <asp:Label ID="Invalid" runat="server" Text="" ></asp:Label>
                             </div>
                         </div>
 
@@ -260,6 +274,7 @@
             </div>
 
         </footer>
+      
     </form>
 
 </body>
