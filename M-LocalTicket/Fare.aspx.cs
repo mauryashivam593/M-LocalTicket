@@ -34,7 +34,7 @@ public partial class Fare : System.Web.UI.Page
                         string name1 = child.Attributes[0].InnerText;
                         if (name1 ==DropDownList2.SelectedValue)
                         {
-                           
+                            Table1.Visible = true;
                             Label4.Text = "" + child.Attributes[3].InnerText;
                             firstticket.Text = "" + child.Attributes[4].InnerText;
                             secondpass.Text = "" + child.Attributes[1].InnerText;

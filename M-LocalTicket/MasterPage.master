@@ -48,18 +48,20 @@
                 <a href="#" class="brand-logo">M-LocalTicket</a>
                 <a onclick="mySidenav();" href="#" data-target="slide-out" class="sidenav-trigger "><i class="material-icons">menu</i></a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><asp:Label ID="Label1" runat="server" Text=""></asp:Label></li>
+                    <li><asp:Label ID="Label1" runat="server" Text="" ></asp:Label></li>
                     
                     <li><a id="aboutus" runat="server" href="AboutUs.aspx">About Us</a></li>
                     <li><a href="ContactUs.aspx">Contact Us</a></li>
                     <li><a href="#" runat="server" id="Logout" visible="false" onserverclick="Logout_Click">Log Out</a> </li>
-                    <li>
+                  <!--  <li>
                         <button runat="server" id="SignUp" data-target="modal2" onclick=" var elem1 = document.getElementById('modal2');
   var instance1 = new M.Modal(elem1);instance1.open();"
                             class="btn modal-trigger">
                             SignUp
                         </button>
                     </li>
+                    -->
+                     <li><a href="Signup.aspx" runat="server" class="btn" >SignUp</a></li>
 
                     <li>
                         <button runat="server"  id="Login" onclick=" var elem = document.getElementById('modal1');
@@ -73,9 +75,11 @@
                     <li><a id="aboutus1" href="AboutUs.aspx" runat="server">About Us</a></li>
                     <li><a href="ContactUs.aspx">Contact Us</a></li>
                     <li><a href="#" runat="server" id="Logout1" visible="false">Log Out</a></li>
-                    <li><a href="#" id="SignUp1" runat="server" onclick=" var elem1 = document.getElementById('modal2');
+                    <!--<li><a href="#" id="SignUp1" runat="server" onclick=" var elem1 = document.getElementById('modal2');
   var instance1 = new M.Modal(elem1);instance1.open();"
                         class="btn modal-trigger">Sign Up</a></li>
+                    -->
+                    <li><a href="Signup.aspx" runat="server" class="btn" >SignUp</a></li>
                     <li><a href="#" id="Login1" runat="server" onclick=" var elem = document.getElementById('modal1');
   var instance = new M.Modal(elem);instance.open();"
                         data-target="modal1" class="btn modal-trigger">Log In</a></li>
@@ -125,7 +129,7 @@
                     <div class="col s12">
                         <div class="row">
                             <div class="input-field col s12">
-                                <input id="email" type="email" class="validate"  runat="server" />
+                                <input id="emailid" type="email" class="validate"  runat="server" />
                                 <label  for="email">Email</label>
                             </div>
                         </div>
@@ -133,6 +137,11 @@
                             <div class="input-field col s12">
                                 <input id="password" type="password" class="validate" required="required" runat="server"/>
                                 <label for="password">Password</label>
+                            </div>
+                        </div>
+                         <div class="row">
+                            <div class="input-field col s12">
+                              <a href="Forgotpass.aspx" runat="server" id="Forgotpass">Forgot Password</a>
                             </div>
                         </div>
                          <div class="row">
@@ -158,7 +167,7 @@
         </div>
 
 
-        <!-- Modal Structure for sign up  -->
+     <!--  
 
         <div id="modal2" class="modal modal-fixed-footer">
             <div class="modal-content">
@@ -214,16 +223,15 @@
                                 <input id="password2" type="password" class="validate" runat="server" oninput="check(this)" />
                                 <label for="password2">ConfirmPassword</label>
                             </div>
-                            <script type='text/javascript'>
-                                function check(input) {
-                                    if (input.value != document.getElementById('password1').value) {
-                                        input.setCustomValidity('Password Must be Matching.');
-                                    } else {
-                                        // input is valid -- reset the error message
-                                        input.setCustomValidity('');
-                                    }
-                                }
+                           
                             </script>
+                        </div>
+                        SECURITY QUESTION 
+                        <div class="row">
+                            <div class="input-field col s12">
+                                <input id="secquestion" type="text" class="validate" runat="server" required="required" />
+                                <label for="secquestion" ></label>
+                            </div>
                         </div>
 
 
@@ -231,13 +239,10 @@
                     </div>
                 </div>
 
-                <!--ending of model2 content-->
+            
             </div>
-            <div class="modal-footer" style="background-color: coral; padding: 4px 7px 2px 4px; text-align: center">
-                <a href="#!" style="color: white;" runat="server" onserverclick="signup_click" class="modal-action modal-close waves-effect waves-green btn-flat">Sign Up</a>
-            </div>
-        </div>
-
+         
+-->
         <div style=" background-color:rgb(237,237,237);
     width:100%;
     border:1px solid rgb(224,224,224);

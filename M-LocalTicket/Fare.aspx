@@ -102,7 +102,7 @@
 
             </div>
   
-    <asp:Table ID="Table1" runat="server" Width="590px" style="background-color: antiquewhite;border:solid;">
+    <asp:Table ID="Table1" runat="server" Width="590px" style="background-color: antiquewhite;border:solid;" Visible="false">
         <asp:TableRow runat="server">
             <asp:TableCell runat="server"></asp:TableCell>
             <asp:TableCell runat="server">II Class</asp:TableCell>

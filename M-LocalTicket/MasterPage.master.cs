@@ -13,11 +13,19 @@ public partial class MasterPage : System.Web.UI.MasterPage
     SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["M-LocalTicketConnectionString"].ToString());
     protected void Page_Load(object sender, EventArgs e)
     {
-   
-    }
-    protected void login_click(object sender, EventArgs e)
+
+
+        if (Session["Username"] != null)
+        {
+
+            BOOKTICKET.Visible = true;
+            BOOKINGHISTORY.Visible = true;
+
+        }
+        }
+        protected void login_click(object sender, EventArgs e)
     {
-        string temp = "select count(*) from [SignUp] where email='" + email.Value + "' and password= '" + password.Value + "' ";
+        string temp = "select count(*) from [SignUp] where email='" + emailid.Value + "' and password= '" + password.Value + "' ";
         SqlCommand cmd = new SqlCommand(temp, con);
         try
         {
@@ -30,16 +38,20 @@ public partial class MasterPage : System.Web.UI.MasterPage
 
             if (check == 1)
             {
-
+                Session["Username"] = emailid.Value;
+               
+                
                 SignUp.Visible = false;
                 Login.Visible = false;
                 SignUp1.Visible = false;
                 Login1.Visible = false;
                 Logout.Visible = true;
                 Logout1.Visible = true;
-                BOOKTICKET.Visible = true;
-                BOOKINGHISTORY.Visible = true;
-                Session["Username"] = email.Value;
+             
+             
+                //BOOKTICKET.Visible = true;
+                //BOOKINGHISTORY.Visible = true;
+
 
             }
 
@@ -55,6 +67,7 @@ public partial class MasterPage : System.Web.UI.MasterPage
 
         }
  }
+    /*
     protected void signup_click(object sender, EventArgs e)
     {
 
@@ -78,7 +91,7 @@ public partial class MasterPage : System.Web.UI.MasterPage
         }
         catch (Exception ex) { }
         }
-      
+      */
 
 
     
